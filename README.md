@@ -8,7 +8,7 @@
 
 ---
 
-Measurement Based Quantum Computing (MBQC) (see [Completeness of classical spin models and universal
+**Measurement Based Quantum Computing (MBQC)** (see [Completeness of classical spin models and universal
 quantum computation](https://arxiv.org/pdf/0812.2368.pdf)), also known as **One-Way Quantum Computing**
  is one way of performing adaptive measurements on a highly entangled system of qubits so that entanglement 
  is used as a resource, which is gradually reduced after each *adaptive* measurement on individual qubits. 

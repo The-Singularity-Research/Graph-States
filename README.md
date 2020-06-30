@@ -1,8 +1,10 @@
 # Graph-States
 ## Introduction
-What are **Graph States**? Graph States are systems of interacting particles, usually 2-level systems (qubits), which are represented by graphs like the one seen below. 
+What are **Graph States**? Graph States are systems of interacting particles, usually 2-level systems (qubits), which are represented by graphs like the ones seen below found in the Nature paper [Experimental entanglement of six photons in graph states](https://www.nature.com/articles/nphys507):
 
 ![Graph States](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fnphys507/MediaObjects/41567_2007_Article_BFnphys507_Fig1_HTML.jpg)
+
+![Graph States 2](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIOEW9WoyvigJHEzmiEeh43nmFqSUR0d4-Kg&usqp=CAU)
 
 
 ## Applications

@@ -25,6 +25,7 @@ quantum computation](https://arxiv.org/pdf/0812.2368.pdf)), also known as **One-
 
 
 ### Error Correction
+Any stabilizer code can be modeled as a graph state, so understanding quantum error correction through graph states gives a graphical presentation of stabilizer codes. 
 
 
 ### Quantum Cryptography and blind quantum computation 
@@ -33,18 +34,18 @@ and [Verifiable measurement-only blind quantum computing with stabilizer testing
 
 
 ### Modeling Ising type models 
-
+Graph states are naturally an example of Ising models in statistical mechanics, with entanglement/interactions represented by edges of the graph between nodes representing the particles. 
 
 ### Quantum Complexity using Partition Functions 
-see Section 5 of [Measurement-based quantum computation](https://arxiv.org/pdf/0910.1116.pdf)
+See Section 5 of [Measurement-based quantum computation](https://arxiv.org/pdf/0910.1116.pdf)
 
 
 ### Modeling Quantum Phase Transitions 
-see A. Kitaev's lecture on [Topological quantum phases](https://www.youtube.com/watch?v=W2vUbTR2RWQ&t=898s)), 
+See A. Kitaev's lecture on [Topological quantum phases](https://www.youtube.com/watch?v=W2vUbTR2RWQ&t=898s)), 
 
 
 ### Entanglement Entropy and Entanglement as a Computational Resource 
-see [Entanglement in Graph States and its Applications](https://arxiv.org/pdf/quant-ph/0602096.pdf)
+See [Entanglement in Graph States and its Applications](https://arxiv.org/pdf/quant-ph/0602096.pdf)
 
 
 ### Modeling Condensed Matter Physics on Quantum Computers 
@@ -53,9 +54,11 @@ see [Entanglement in Graph States and its Applications](https://arxiv.org/pdf/qu
 ### Modeling Quantum/Classical Information Processing in DNA 
 This is useful for applications to Bio-informatics, protien folding, and understanding applications of CRISPR, 
 see for example 
+
 - [Adiabatic graph-state quantum computation](https://arxiv.org/pdf/1309.1443.pdf) 
 
 - [Quantum entanglement between the electron clouds of nucleic acids in DNA](https://arxiv.org/pdf/1006.4053.pdf), 
 
 which also has an accompanying Google lecture: 
+
 - [Classical and Quantum Information in DNA (Google Workshop on Quantum Biology)](https://www.youtube.com/watch?v=2nqHOnVTxJE&t=66s)

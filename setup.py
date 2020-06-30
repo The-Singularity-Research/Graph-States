@@ -16,6 +16,7 @@ setuptools.setup(
     install_requires=[
         "networkx",
         "qiskit",
+        "cirq",
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

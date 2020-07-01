@@ -35,29 +35,48 @@ Any stabilizer code can be modeled as a graph state, so understanding quantum er
 
 
 ### Quantum Cryptography and blind quantum computation 
-(see for example [Graph States for Quantum Secret Sharing](https://arxiv.org/pdf/0808.1532.pdf) 
-and [Verifiable measurement-only blind quantum computing with stabilizer testing](https://arxiv.org/pdf/1505.07535.pdf), 
+See for example 
+
+#### Papers:
+
+- [Graph States for Quantum Secret Sharing](https://arxiv.org/pdf/0808.1532.pdf) 
+- [Verifiable measurement-only blind quantum computing with stabilizer testing](https://arxiv.org/pdf/1505.07535.pdf), 
+- [Experimental demonstration of graph-state
+quantum secret sharing](https://www.nature.com/articles/ncomms6480.pdf)
+
+#### Videos:
+
+- [Matthew G. Parker / Exclusivity graphs from quantum graph states – and mixed graph generalisations](https://www.youtube.com/watch?v=Dka96mKnm9U&t=29s)
+- [Simon Perdrix: Quantum Secret Sharing with Graph States](https://www.youtube.com/watch?v=igphWtdZJww&t=25s)
 
 
 ### Modeling Ising type models 
 Graph states are naturally an example of Ising models in statistical mechanics, with entanglement/interactions represented by edges of the graph between nodes representing the particles. 
+- [Mapping Classical Spin Models to the Graph State Formalism](https://perimeterinstitute.ca/videos/mapping-classical-spin-models-graph-state-formalism)
+
 
 ### Quantum Complexity using Partition Functions 
-See Section 5 of [Measurement-based quantum computation](https://arxiv.org/pdf/0910.1116.pdf)
-
+See  
+- [Section 5: Measurement-based quantum computation](https://arxiv.org/pdf/0910.1116.pdf)
+- [Commuting quantum circuits and complexity of Ising partition functions](https://iopscience.iop.org/article/10.1088/1367-2630/aa5fdb/pdf)
 
 ### Modeling Quantum Phase Transitions 
-See A. Kitaev's lecture on [Topological quantum phases](https://www.youtube.com/watch?v=W2vUbTR2RWQ&t=898s)), 
+
+See A. Kitaev's lecture on [Topological quantum phases](https://www.youtube.com/watch?v=W2vUbTR2RWQ&t=898s) 
 
 
-### Entanglement Entropy and Entanglement as a Computational Resource 
-See [Entanglement in Graph States and its Applications](https://arxiv.org/pdf/quant-ph/0602096.pdf)
+### Measurement Based Quantum Computing, Entanglement Entropy, and Entanglement as a Computational Resource 
+See 
+- [Entanglement in Graph States and its Applications](https://arxiv.org/pdf/quant-ph/0602096.pdf)
+- [Physical-depth architectural requirements for generating universal
+photonic cluster states](https://iopscience.iop.org/article/10.1088/2058-9565/aa913b/pdf)
 
 
 ### Modeling Condensed Matter Physics on Quantum Computers 
 
 
 ### Modeling Quantum/Classical Information Processing in DNA 
+
 This is useful for applications to Bio-informatics, protien folding, and understanding applications of CRISPR, 
 see for example 
 

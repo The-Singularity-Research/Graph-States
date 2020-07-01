@@ -46,9 +46,9 @@ class QiskitGraphState():
         :param self:
         :param node: a node in self.graph
         """
-        self.circuit.append(cirq.X(cirq.NamedQubit(str(qubit))))
+        self.circuit.append(cirq.X(cirq.NamedQubit(str(node))))
         for neighbor in self.graph.neighbors(node):
-            self.circuit.append(cirq.Z(cirq.NamedQubit(str(node))))
+            self.circuit.append(cirq.Z(cirq.NamedQubit(str(neighbor))))
 
 
     def __str__(self):
